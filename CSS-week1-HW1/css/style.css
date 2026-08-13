@@ -9,6 +9,12 @@ header{
 
 nav{
   background-color: antiquewhite;
+  display: inline-block;
+  width: 80%;
+}
+
+nav img {
+  width: 10%;
 }
 
 main{
